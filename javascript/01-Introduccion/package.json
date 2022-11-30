@@ -1,0 +1,17 @@
+{
+  "name": "01-introduccion",
+  "version": "1.0.0",
+  "description": "Ejercicio de la sesión 1. Introducción a JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "project",
+    "nodejs"
+  ],
+  "author": "Jesus Vilchez",
+  "license": "ISC"
+}
