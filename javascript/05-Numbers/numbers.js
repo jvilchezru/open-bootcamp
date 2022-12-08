@@ -14,7 +14,7 @@ console.log(weight_kg);
 let height_m_up = Math.ceil(height_m);
 console.log(height_m_up);
 
-// Variable que contiene mi altura en metros redondeada hacia abajo
+// Variable que contiene mi peso en kilogramos redondeada hacia abajo
 let weight_kg_down = Math.floor(weight_kg);
 console.log(weight_kg_down);
 
