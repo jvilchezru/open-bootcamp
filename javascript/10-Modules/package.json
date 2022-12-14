@@ -1,0 +1,16 @@
+{
+  "name": "10-modules",
+  "version": "1.0.0",
+  "description": "Modules in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jesus Vilchez",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
