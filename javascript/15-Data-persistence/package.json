@@ -1,0 +1,12 @@
+{
+  "name": "15-data-persistence",
+  "version": "1.0.0",
+  "description": "Data persistence in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesus Vilchez",
+  "license": "ISC"
+}
