@@ -1,6 +1,6 @@
 package com.openbootcamp;
 
-public class Ejercicio1 {
+public class EjercicioTema1 {
 
     public static void main(String[] args) {
 
@@ -38,7 +38,7 @@ public class Ejercicio1 {
         // 3.1. Cadena de Texto
         String name = "Jesus Vilchez";
 
-        System.out.println("Cadena de tecto: " + name);
+        System.out.println("Cadena de texto: " + name);
 
         // 3.2. Caracter
         char letter = 'a';
